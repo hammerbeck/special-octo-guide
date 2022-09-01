@@ -1,0 +1,3 @@
+# Forecast for Louisville
+GET https://api.weather.gov/gridpoints/LMK/52,77/forecast
+# GET https://api.weather.gov/points/38.2525,-85.6503
